@@ -4,10 +4,11 @@
 ![venmo logo](https://logodix.com/logo/54360.png)
 
 ## Overview and Origin:
-* **Domain:** Payments/Billing
+* FinTech Domain: Payments/Billing
 * Venmo was launched in 2009 by Andrew Kortina and Iqram Magdon-Ismail. The pair met while attending college at the University of Pennsylvannia in 2001. After spending several years bouncing around different startups the two friends/roommates decided to launch Venmo in 2009. The idea originally started out as "a music startup that allowed people to send a text to a band to have an mp3 show up in their email." The pair came up with the name "Venmo" by combining the latin word vendere, which means "to sell", and "mo" for mobile. Eventually the concept of Venmo transformed into a payment service app available to anyone for anything, not just musicians. This came to be after Magdon-Ismail traveled to NYC to visit Kortina one weekend and realized he'd left his wallet back in Phillidelphia causing Kortina to have to cover him for the entire weekend. At the end of the visit Magon-Ismail wrote Kortina a check. It was this moment the two friends realized how ridiculous it was to be writing a check in a time where it felt you could do almost everything else with your phone. So they decided to solve the problem.
-* Today Venmo is mostly funded through transaction fees. The company collects a 3% transaction fee from those using a credit card to make payments or if you are a business account the app charged a 2.9% fee when consumers use the app to pay. 
-* "In 2010, Magdon-Ismail and Kortina raised $1.2 million of seed money through financing round, then two years later, their company was acquired by Braintree, a fintech payments company. In 2013, PayPal acquired Braintree for $800 million."
+* About a year after launching Venmo, Magdon-Ismail and Kortina were able to raise $1.2 million in seed money thanks to a friend's father. About two years after that their company was acquired by Braintree, a fintech payments company, who in turn was acquired by PayPal in 2013 for $800 million. 
+* Currently Venmo is mostly funded through transaction fees. The company collects a 3% transaction fee from those using a credit card to make payments or if you are a business account the app charges a 2.9% fee when consumers use the app to pay. 
+
 
 ## Business Activities:
 * Venmo has solved old school payment methods by creating a way to quickly trasnfer funds electronically from one party to another. 
