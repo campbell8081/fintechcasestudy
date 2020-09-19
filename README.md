@@ -31,5 +31,17 @@
 * Venmo and other payment service apps are able to measure their success by calculating the number of users they have as well as the payment volume they do. Right now, Venmo is one of the leading companies in the P2P app department.
 
 ### Addendum - Works Cited
+* www.venmo.com
+* en.wikipedia.org/wiki/venmo
+* https://www.businessinsider.com/venmo-origin-story-facts-andrew-kortina-2014-6
+* https://www.thestreet.com/technology/how-does-venmo-make-money-14763957#:~:text=Although%20Venmo%20is%20free%20to,money%20off%20of%20transaction%20fees.&text=For%20regular%20consumers%20or%20%22end,credit%20card%20for%20your%20transactions.
+* https://appinventiv.com/blog/cost-of-venmo-like-app-development/
+* https://www.investopedia.com/articles/personal-finance/010715/venmo-its-business-model-and-competition.asp
+* https://proov.io/blog/technology-behind-mobile-payments/#:~:text=Mobile%20payments%20is%20one%20of,of%20protection%20around%20every%20transaction.
+* https://www.forbes.com/sites/bernardmarr/2020/12/30/the-top-5-fintech-trends-everyone-should-be-watching-in-2020/#583f14a94846
+* https://www.fintechnews.org/top-8-digital-payment-trends-for-2020/
+* https://northwesternbusinessreview.org/the-cashless-economy-74b2624d9357
+* https://www.usatoday.com/story/money/markets/2018/07/14/top-mobile-peer-to-peer-payment-platforms-venmo-cash-app-zelle/36726065/
+
 
 
