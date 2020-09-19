@@ -1,14 +1,11 @@
 # fintechcasestudy
 # Venmo: A Peer-to-Peer Payment App 
 
-![venmo logo |250x250](https://logodix.com/logo/54360.png)
+![venmo logo](https://logodix.com/logo/54360.png)
 
 ## Overview and Origin:
 * **Domain:** Payments/Billing
-* **Company:** Venmo
-* Venmo was incorporated in 2009
-* Andrew Kortina and Iqram Magdon-Ismail were the founders of Venmo. The pair met while attending college at the University of Pennsylvannia in 2001. 
-* After spending several years working at other startups the two friends decided to launch Venmo in 2009. The app started out as "a music startup that allowed people to send a text to a band to have an mp3 show up in their email." The pair came up with the name "Venmo" by combining the latin word vendere, which means "to sell", and "mo" for mobile. The idea for Venmo transformed into a payment service app after Kortina and Magdon-Ismail went out in NYC for a weekend and Magdon-Ismail forgot his wallet requiring kortina to cover him for the weekend. They both found it a pain for Magdon-Ismail to have to pay him back with a check, thus coming up with the idea of creating an app that 
+* Venmo was launched in 2009 by Andrew Kortina and Iqram Magdon-Ismail. The pair met while attending college at the University of Pennsylvannia in 2001. After spending several years bouncing around different startups the two friends/roommates decided to launch Venmo in 2009. The idea originally started out as "a music startup that allowed people to send a text to a band to have an mp3 show up in their email." The pair came up with the name "Venmo" by combining the latin word vendere, which means "to sell", and "mo" for mobile. Eventually the concept of Venmo transformed into a payment service app available to anyone for anything, not just musicians. This came to be after Magdon-Ismail traveled to NYC to visit Kortina one weekend and realized he'd left his wallet back in Phillidelphia causing Kortina to have to cover him for the entire weekend. At the end of the visit Magon-Ismail wrote Kortina a check. It was this moment the two friends realized how ridiculous it was to be writing a check in a time where it felt you could do almost everything else with your phone. So they decided to solve the problem.
 * Today Venmo is mostly funded through transaction fees. The company collects a 3% transaction fee from those using a credit card to make payments or if you are a business account the app charged a 2.9% fee when consumers use the app to pay. 
 * "In 2010, Magdon-Ismail and Kortina raised $1.2 million of seed money through financing round, then two years later, their company was acquired by Braintree, a fintech payments company. In 2013, PayPal acquired Braintree for $800 million."
 
