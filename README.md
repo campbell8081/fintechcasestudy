@@ -32,7 +32,7 @@
 
 ### Addendum - Works Cited
 * www.venmo.com
-* en.wikipedia.org/wiki/venmo
+* https://en.wikipedia.org/wiki/Venmo
 * https://www.businessinsider.com/venmo-origin-story-facts-andrew-kortina-2014-6
 * https://www.thestreet.com/technology/how-does-venmo-make-money-14763957#:~:text=Although%20Venmo%20is%20free%20to,money%20off%20of%20transaction%20fees.&text=For%20regular%20consumers%20or%20%22end,credit%20card%20for%20your%20transactions.
 * https://appinventiv.com/blog/cost-of-venmo-like-app-development/
