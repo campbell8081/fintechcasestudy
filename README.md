@@ -2,8 +2,8 @@
 # Venmo: A Peer-to-Peer Payment App ![venmoimage.png](/Users/christiancampbell/Documents/FinTech/Photos/venmoimage.png)
 
 ## Overview and Origin:
-* Domain: Payments/Billing
-* Company: Venmo
+* **Domain:** Payments/Billing
+* **Company:** Venmo
 * Venmo was incorporated in 2009
 * Andrew Kortina and Iqram Magdon-Ismail were the founders of Venmo. The pair met while attending college at the University of Pennsylvannia in 2001. 
 * After spending several years working at other startups the two friends decided to launch Venmo in 2009. The app started out as "a music startup that allowed people to send a text to a band to have an mp3 show up in their email." The pair came up with the name "Venmo" by combining the latin word vendere, which means "to sell", and "mo" for mobile. The idea for Venmo transformed into a payment service app after Kortina and Magdon-Ismail went out in NYC for a weekend and Magdon-Ismail forgot his wallet requiring kortina to cover him for the weekend. They both found it a pain for Magdon-Ismail to have to pay him back with a check, thus coming up with the idea of creating an app that 
