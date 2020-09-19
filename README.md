@@ -1,7 +1,7 @@
 # fintechcasestudy
 # Venmo: A Peer-to-Peer Payment App 
 
-![Venmo logo](/Users/christiancampbell/Documents/FinTech/Photos/venmoimage.png)
+![venmo logo](https://logodix.com/logo/421554.png)
 
 ## Overview and Origin:
 * **Domain:** Payments/Billing
