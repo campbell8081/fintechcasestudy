@@ -12,14 +12,14 @@
 
 ## Business Activities:
 * Venmo has been able to help solve old school, slow method ways of paying by offering a quick and easy way to instantly transfer funds electronically from one party to another. 
-* Venmo's intended customer base has been the millennial generation. "It's convenience and accessibility makes it perfect for Millennials and younger generations who want to make casual transactions, like paying back a friend for lunch or a ride."
-* In 2019 PayPayl revealed that Venmo had more than 40 million users - making them the most popular payment service app out there. Venmo currently doesn't charge it's users to send or receive money (unless using a credit card), unlike the rest of the P2P apps that are currently out there. 
-* Venmo, like other P2P apps uses blockchain technology. "Mobile payments is one of the most popular uses of blockchain technology so far because the decentralized nature of blockchains - the technology's most differentiating feature - provides a nearly unbreakable layer of protection around every transaction."
+* Venmo's intended customer base has mostly been the younger generations. "It's convenience and accessibility makes it perfect for Millennials and younger generations who want to make casual transactions, like paying back a friend for lunch or a ride."
+* In 2019 PayPal revealed that Venmo had more than 40 million users - making them the most popular payment service app out there. Venmo currently doesn't charge it's users to send or receive money (unless using a credit card), unlike the rest of the P2P apps that it currently competes with. 
+* Venmo, like other P2P apps uses blockchain technology. According to Joanna Alter from prooV, "Mobile payments is one of the most popular uses of blockchain technology so far because the decentralized nature of blockchains - the technology's most differentiating feature - provides a nearly unbreakable layer of protection around every transaction."
 
 ## Landscape:
 
-* Venmo falls within the largeset domain of the FinTech industry, Payments and Billing. Mobile payment apps have not only been the largest but the fastest growing segment of the FinTech space. Other major companies within the P2P segment include Square Payments, Sage Payment Solutions, Stripe, PayPal (Venmo's parent company), Zelle, ApplePay, and Andriod Pay to name a few.
-* Large tech companies within this domain such as Google and Apple have started to roll out new features like facial recognition and fingerprinting to release payments as well as the newest innovation, Biometric Authentication, which is a verification method that involves biological and structural characterisitics of a persion. This can include everything from heartbeat analysis to vein mapping. 
+* Venmo falls within the largest domain of the FinTech industry, Payments and Billing. Mobile payment apps have not only been the largest but the fastest growing segment of the FinTech space as well. Other major companies within the P2P segment include Square Payments, Sage Payment Solutions, Stripe, PayPal (Venmo's parent company), Zelle, ApplePay, and Andriod Pay to name a few.
+* Large tech companies within this domain such as Google and Apple have started to roll out new features like facial recognition and fingerprinting to release payments as well as the newest innovation, Biometric Authentication, which is a verification method that involves biological and structural characterisitics of a person - this can include everything from heartbeat analysis to vein mapping. 
 
 ## Results:
 
