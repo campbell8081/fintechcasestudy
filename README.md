@@ -26,7 +26,7 @@
 * Since its launch Venmo has made a huge imapct on our economy, especially within the younger generations by replacing cash and checks. Some would even say Venmo has essentially turned us into a "Cashless Economy". It has completely transformed the way millennials make financial decisions. 
 * Venmo and other payment service apps are able to measure their success by calculating the number of users they have as well as their payment volume. As mentioned earlier, Venmo is currently the leading app in this department.
 
-### Addendum - Works Cited
+### Addendum:
 * www.venmo.com
 * https://en.wikipedia.org/wiki/Venmo
 * https://www.businessinsider.com/venmo-origin-story-facts-andrew-kortina-2014-6
